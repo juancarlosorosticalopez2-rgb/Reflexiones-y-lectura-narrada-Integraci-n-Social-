@@ -1,0 +1,6 @@
+{
+  "name": "Reflexiones: Lectura Narrada",
+  "description": "Experiencia editorial interactiva de audio y lectura narrada sobre integración, pensamiento crítico, colaboración y sociedad con ambientación sonora.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
